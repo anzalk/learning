@@ -12,6 +12,11 @@ Non-uniform memory access is a computer memory design used in multiprocessing, w
 
 ixgbe -- Intel(R) 10Gb Ethernet driver for	the FreeBSD operating system
 
+run-time environment
+(RTE)
+
+lcore  -- logical core
+
 
 DPDK Libs
 - Buffer management
