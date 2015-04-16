@@ -1,10 +1,27 @@
 COTS Platform- 
 
-Short for commercial off-the-shelf, an adjective that describes software or hardware products that are ready-made and available for sale to the general public. For example, Microsoft Office is a COTS product that is a packaged software solution for businesses. COTS products are designed to be implemented easily into existing systems without the need for customization.
+Short for COMMERCIAL OFF-THE-SHELF, an adjective that describes software or hardware products that are ready-made and available for sale to the general public. For example, Microsoft Office is a COTS product that is a packaged software solution for businesses. COTS products are designed to be implemented easily into existing systems without the need for customization.
+
+QT : is a cross-platform application framework that is widely used for developing application software that can be run on various software and hardware platforms with little or no change in the underlying codebase, while having the power and speed of native applications.
+
+Remote Procedure Call (RPC) is a protocol that one program can use to request a service from a program located in another computer in a network without having to understand network details
+
+A translation lookaside buffer (TLB) is a memory cache that stores recent translations of virtual memory to physical addresses for faster retrieval. When a virtual memory address is referenced by a program, the search starts in the CPU.
+
+Non-uniform memory access is a computer memory design used in multiprocessing, where the memory access time depends on the memory location relative to the processor.
+
+ixgbe -- Intel(R) 10Gb Ethernet driver for	the FreeBSD operating system
+
+
+DPDK Libs
+- Buffer management
+- Queue management
+- Packet flow classification
+- NIC poll mode drivers
 
 Packet Generation at Line rate for IP-V4, V6, TCP, UDP and ICMP traffic on COTS platform – 3 months
 
-QT : is a cross-platform application framework that is widely used for developing application software that can be run on various software and hardware platforms with little or no change in the underlying codebase, while having the power and speed of native applications.
+DPDK packet processing power + Ostinato features
 
 
 
